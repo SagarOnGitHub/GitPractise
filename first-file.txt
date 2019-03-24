@@ -1,3 +1,4 @@
+checkinng the diff 
 this is my first file of git
 
 2nd stage of commit
